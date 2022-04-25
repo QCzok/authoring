@@ -25,4 +25,4 @@ Jump back to [start](#github-flavoured-markdown)
 | Wolf Class | Zoo-Klasse | Beginner | English |
 | Tiger Class | Safara-Klasse | Advanced | German
 
-I need to highlight these ==very important words==. 
+I need to highlight these `very important words`. 
