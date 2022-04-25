@@ -17,7 +17,7 @@ Jump back to [start](#github-flavoured-markdown)
 ![pinguin](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg/220px-South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg)
 
 ## Emojis
-:laughin:
+:laughing:
 
 ## Tables
 | name | class | level | language |
