@@ -1,4 +1,7 @@
-# authoring
+# Advanced Markdown
 
-- [ ] Checkbox
-- [X] Checkbox 
+## Checkboxes
+- [ ] Reisepass beantragen
+- [X] Visum bezahlt
+- [ ] Hotel buchen
+- [ ] Telefon umstellen
