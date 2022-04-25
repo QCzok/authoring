@@ -1,3 +1,4 @@
 # authoring
 
 - [ ] Checkbox
+- [X] Checkbox 
