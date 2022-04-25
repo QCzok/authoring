@@ -11,3 +11,7 @@
 
 :bowtie:
 :smile:
+:laughing:
+:blush:
+:1st_place_medal:
+🅰️
